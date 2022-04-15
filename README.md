@@ -15,7 +15,7 @@ You have two possible approaches (as shown below) given the datasets that will b
 
 **Approach 1:** Polynomial approach
 
-What to train given:
+What to train within the dataset:
 
 Rank of home team Rank of away team Tournament type Model 1: Predict how many goals the home team scores.
 
@@ -31,6 +31,5 @@ A more detailed explanation and history of the rankings is available here: https
 
 An explanation of the ranking procedure is available here: https://www.fifa.com/fifa-world-ranking/procedure/men
 
-Dataset Columns
-
+**Dataset Columns**
 Some features are available on the FIFA ranking page : https://www.fifa.com/fifa-world-ranking/ranking-table/men/index.html
